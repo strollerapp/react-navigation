@@ -31,7 +31,7 @@
     "react-native": "*"
   },
   "dependencies": {
-    "@react-navigation/core": "^3.5.1",
+    "@react-navigation/core": "https://github.com/serhiipalash/core",
     "@react-navigation/native": "^3.6.2"
   },
   "devDependencies": {
